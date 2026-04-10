@@ -1,4 +1,7 @@
 # OPGM: Optical Property-Guided Spectral Line Screening Method for LIBS Analysis
+The related spectral line filtering code and validation data can be found at：
+https://pan.baidu.com/s/1rNoHRkKzb0coUC6D5E8vPg?pwd=LIBS 
+Password: LIBS  
 
 ## Spectral line selection code
 This repository provides the implementation of the proposed Optical Property-Guided Spectral Line Screening Method (OPGM), which performs physics-constrained spectral line selection for LIBS data.
