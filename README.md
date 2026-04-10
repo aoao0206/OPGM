@@ -15,8 +15,8 @@ The method integrates:
 ## 📥 Code Download
 
 The Spectral line selection method code:  
-Link: https://pan.baidu.com/s/1MRAE5BGYMiBpDU97z1YWKw?pwd=hust  
-Password: hust  
+Link: https://pan.baidu.com/s/1oRtnChHc8blKq1Ww2D69cQ?pwd=LIBS
+Password: LIBS  
 
 
 
