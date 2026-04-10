@@ -81,6 +81,6 @@ The dataset can be used for:
 ## 📥 Download
 
 The augmented dataset:  
-Link: https://pan.baidu.com/s/1MRAE5BGYMiBpDU97z1YWKw?pwd=hust  
-Password: hust  
+Link: https://pan.baidu.com/s/1s1d3Bal6BIMrH4AVMDCbog?pwd=LIBS
+Password: LIBS  
 
